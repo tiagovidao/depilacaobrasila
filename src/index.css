@@ -349,6 +349,7 @@ section.formulario-email textarea:focus {
 } 
 
 section.formulario-email button {
+  font-family: "Playwrite DE Grund", cursive;
   width: 33%;
   padding: 12px;
   background-color: #8F6A5B;
@@ -591,6 +592,7 @@ footer .copyright-text{
 
   body {
       padding-top: 60px;
+      font-family: "Playwrite DE Grund", cursive;
   }
 
   header {
